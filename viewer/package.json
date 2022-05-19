@@ -7,7 +7,7 @@
     , "express": "== 2.5.10"
     , "async": ">= 0.0.1"
     , "stylus": ">= 0.0.1"
-    , "connect": "< 2.0.0"
+    , "connect": "2.9.0"
     , "request": ">= 0.0.1"
     , "connect-timeout": ">= 0.0.1"
     , "elasticsearchclient": ">= 0.3.0"
